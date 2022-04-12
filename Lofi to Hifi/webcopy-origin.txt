@@ -1,0 +1,356 @@
+Uri: https://cdn.jsdelivr.net/npm/apexcharts@latest
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\npm\apexcharts@latest
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\ajax\libs\jquery-cookie\1.4.1\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\index.htm
+Content Type: text/html
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/color/cyan.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\color\cyan.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/color/dark-mode.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\color\dark-mode.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/color/dark/dark-blue.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\color\dark\dark-blue.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/color/dark/dark-green.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\color\dark\dark-green.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/color/dark/dark-purple-pink.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\color\dark\dark-purple-pink.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/color/dark/dark-purple.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\color\dark\dark-purple.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/color/green.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\color\green.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/color/orrange.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\color\orrange.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/color/purple-pink.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\color\purple-pink.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/color/purple.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\color\purple.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/css/style.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\css\style.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Bold.eot
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Bold.svg
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Bold.ttf
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Bold.woff
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Light.eot
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Light.svg
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Light.svg
+Content Type: image/svg+xml
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Light.ttf
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Light.ttf
+Content Type: application/octet-stream
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Light.woff
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Light.woff
+Content Type: application/font-woff
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Medium.eot
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Medium.svg
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Medium.ttf
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Medium.woff
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Regular.eot
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Regular.svg
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Regular.ttf
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-Regular.woff
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-SemiBold.eot
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-SemiBold.svg
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-SemiBold.svg
+Content Type: image/svg+xml
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-SemiBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/fonts/Poppins-SemiBold.woff
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\fonts\Poppins-SemiBold.woff
+Content Type: application/font-woff
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/bch.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\bch.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/btc.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\btc.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/code-scan.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\code-scan.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/dash.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\dash.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/eth.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\eth.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/flag/ae.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\flag\ae.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/flag/br.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\flag\br.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/flag/cn.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\flag\cn.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/flag/de.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\flag\de.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/flag/es.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\flag\es.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/flag/in.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\flag\in.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/flag/it.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\flag\it.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/flag/jp.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\flag\jp.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/flag/kr.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\flag\kr.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/flag/ru.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\flag\ru.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/flag/th.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\flag\th.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/flag/us.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\flag\us.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/loader.svg
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/ltc.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\ltc.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/profile.jpg
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\profile.jpg
+Content Type: image/jpeg
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/usd.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\usd.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/images/xrp.png
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\images\xrp.png
+Content Type: image/png
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/dashboard.html
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\dashboard.html
+Content Type: text/html
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/profile.html
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\profile.html
+Content Type: text/html
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/transaction.html
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\transaction.html
+Content Type: text/html
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/transfer-coin.html
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\transfer-coin.html
+Content Type: text/html
+
+Uri: https://theme.bitrixinfotech.com/crypto-wallet/wallet.html
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\crypto-wallet\wallet.html
+Content Type: text/html
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+File Name: C:\Downloaded Web Sites\theme.bitrixinfotech.com\translate_a\element.js
+Content Type: text/javascript
+
