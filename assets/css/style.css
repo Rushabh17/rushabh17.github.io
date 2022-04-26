@@ -260,10 +260,10 @@ img{
 }
 .wallet-area-warpper {
     background-color: #001c7110;
-    height: calc(100vh - 60px);
+    /* height: calc(100vh - 60px); */
     border-radius: 15px 15px;
     box-shadow: 0px 0px 15px #ccc;
-    max-width: 1200px;
+    /* max-width: 1200px; */
     margin: 0px auto;
     position: relative;
     overflow: hidden;
@@ -292,7 +292,7 @@ img{
     padding: 34px 30px;
     margin-bottom: 50px;
     background-color: #29418a;
-    border-radius: 15px 0px 0px;
+    /* border-radius: 15px 0px 0px; */
 }
 .header-box {
     background-color: #fff;
@@ -302,7 +302,7 @@ img{
     height: calc(100% - 60px);
 }
 .wallet-area {
-    margin: 30px 30px;
+    /* margin: 30px 30px; */
 }
 .header-logo img {
     max-width: 140px;
